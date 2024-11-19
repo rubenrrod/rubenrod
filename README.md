@@ -1,4 +1,7 @@
 # RUBEN
+## Skills
+* HTML5
+* CSS 3
+* JS
 
-
-![](https://komarev.com/ghpvc/?username=rubenrod&abbreviated=true)
+![My skills](https://komarev.com/ghpvc/?username=rubenrod&abbreviated=true)
